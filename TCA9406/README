@@ -1,0 +1,5 @@
+Added "exported" version of libraries.
+Compatible with PCBNew editor for KiCad.
+
+This is TI's component. Its a bi directional voltage level converter. The datasheet is available here: http://www.ti.com/lit/ds/scps221b/scps221b.pdf
+Note that this library has the footprint for DCU packaging.
